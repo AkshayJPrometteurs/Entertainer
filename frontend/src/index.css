@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: defaultFont;
+    src: url('http://localhost:3000/assets/fonts/defaultFont.ttf');
+}
+
+.MuiFormControlLabel-label{
+    width: 100%!important;
+}
+
+.css-idb635-MuiFormControlLabel-root{
+    margin: 0!important;
+}
+
+.eyoHU{
+    width: 100%!important;
+}
